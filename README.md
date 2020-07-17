@@ -16,7 +16,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on nothing in particular
+- 🔭 I’m currently working on my DICOM Metadata Extractor project in [Spring-Boot](https://spring.io)
 - 🌱 I’m currently learning Flutter and Spring Boot
 - 👯 I’m looking to collaborate on Backend Projects in Spring
 - 🤔 I’m looking for help with 
