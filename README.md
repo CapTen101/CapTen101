@@ -16,6 +16,8 @@
 <br />
 <br />
 
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 - 🔭 I’m currently working on my DICOM Metadata Extractor project in [Spring-Boot](https://spring.io)
 - 🌱 I’m currently learning Flutter and Spring Boot
 - 👯 I’m looking to collaborate on Backend Projects in Spring
@@ -24,5 +26,8 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-rohilla-007/), [Mail](mailto:trohilla@ch.iitr.ac.in)
 - 😄 Pronouns: he/his/him
 
+<br />
+<br />
+<br />
 
 ![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CapTen101&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
