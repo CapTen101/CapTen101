@@ -3,6 +3,9 @@
 <a href="https://twitter.com/TusharRohilla15">
   <img align="left" alt="Tushar Rohilla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://github.com/CapTen101">
+  <img align="left" alt="Tushar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 <a href="https://www.linkedin.com/in/tushar-rohilla-007/">
   <img align="left" alt="Tushar's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,7 +21,7 @@
 <br />
 <br />
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
 - 🔭 I’m currently working on my DICOM Metadata Extractor project in [Spring-Boot](https://spring.io)
 - 🌱 I’m currently learning Flutter and Spring Boot
