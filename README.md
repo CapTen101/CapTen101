@@ -19,7 +19,7 @@
 [![HitCount](http://hits.dwyl.com/CapTen101/CapTen101.svg)](http://hits.dwyl.com/CapTen101/CapTen101)
 
 <br />
-<br />
+
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
