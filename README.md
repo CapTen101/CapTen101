@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Myself Tushar!
 
 <a href="https://twitter.com/TusharRohilla15">
   <img align="left" alt="Tushar Rohilla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -9,6 +9,12 @@
 <a href="https://www.instagram.com/turosh._/">
   <img align="left" alt="Tushar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://medium.com/@trohila10">
+  <img align="left" alt="Tushar's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+<br />
+<br />
 
 - 🔭 I’m currently working on nothing in particular
 - 🌱 I’m currently learning Flutter and Spring Boot
