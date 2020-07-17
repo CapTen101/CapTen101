@@ -23,7 +23,7 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
-- 🔭 I’m currently working on my DICOM Metadata Extractor project in [Spring-Boot](https://spring.io)
+- 🔭 I’m currently working on my [DICOM Metadata Extractor](https://github.com/CapTen101/DICOM-Metadata-Extract) project in [Spring-Boot](https://spring.io)
 - 🌱 I’m currently learning Flutter and Spring Boot
 - 👯 I’m looking to collaborate on Backend Projects in Spring
 - 🤔 I’m looking for help with 
