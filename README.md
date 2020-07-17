@@ -10,8 +10,6 @@
   <img align="left" alt="Tushar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on nothing in particular
 - 🌱 I’m currently learning Flutter and Spring Boot
 - 👯 I’m looking to collaborate on Backend Projects in Spring
