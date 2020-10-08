@@ -28,7 +28,7 @@
 - 🔭 I’m currently working on my [DICOM Metadata Extractor](https://github.com/CapTen101/DICOM-Metadata-Extract) project in [Spring-Boot](https://spring.io)
 - 🌱 I’m currently learning Kotlin/Flutter/Spring Boot
 - 👯 I’m looking to collaborate on Backend Projects in Spring
-- 🤔 I’m looking for help with 
+- :computer: Incoming Summer 2021 SDE Intern @ Larsen & Toubro 
 - 💬 Ask me about Android, VCS and Badminton!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-rohilla-007/), [Mail](mailto:trohilla@ch.iitr.ac.in)
 - 😄 Pronouns: he/his/him
