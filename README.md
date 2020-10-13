@@ -25,13 +25,12 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
-- 🔭 I’m currently working on my [DICOM Metadata Extractor](https://github.com/CapTen101/DICOM-Metadata-Extract) project in [Spring-Boot](https://spring.io)
-- 🌱 I’m currently learning Kotlin/Flutter/Spring Boot
-- 👯 I’m looking to collaborate on Backend Projects in Spring
+<!-- - 🔭 I’m currently working on my [DICOM Metadata Extractor](https://github.com/CapTen101/DICOM-Metadata-Extract) project in [Spring-Boot](https://spring.io) -->
+- 🌱 I’m currently learning Flutter/Spring Boot
+- 👯 I’m looking to collaborate on Projects in Spring and Flutter 
+- 🎓 Pre-Final UG @ IIT Roorkee
 - :computer: Incoming Summer 2021 SDE Intern @ Larsen & Toubro 
-- 💬 Ask me about Android, VCS and Badminton!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-rohilla-007/), [Mail](mailto:trohilla@ch.iitr.ac.in)
-- 😄 Pronouns: he/his/him
 
 <br />
 <br />
