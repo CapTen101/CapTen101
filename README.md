@@ -23,7 +23,9 @@
 <br />
 
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
+<!--  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/> -->
+
+<img align="right" src="https://github.com/CapTen101/CapTen101/raw/master/an-image-of-a-golden-retriever-typing-on-a-computer-with-an-apocalypse-happening-in-the-background.jpeg" width="480px" />
 
 <!-- - 🔭 I’m currently working on my [DICOM Metadata Extractor](https://github.com/CapTen101/DICOM-Metadata-Extract) project in [Spring-Boot](https://spring.io) -->
 - 🌱 учить русский
