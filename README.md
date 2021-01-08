@@ -28,7 +28,7 @@
 <img align="right" src="https://github.com/CapTen101/CapTen101/raw/master/an-image-of-a-golden-retriever-typing-on-a-computer-with-an-apocalypse-happening-in-the-background.jpeg" width="480px" />
 
 <!-- - 🔭 I’m currently working on my [DICOM Metadata Extractor](https://github.com/CapTen101/DICOM-Metadata-Extract) project in [Spring-Boot](https://spring.io) -->
-- 🌱 учить русский
+- 🌱 Я учу русский
 - 👯 I’m looking to collaborate on Projects in Spring and Flutter 
 - 🎓 Pre-Final UG @ IIT Roorkee
 - :computer: Incoming Summer 2021 SDE Intern @ Larsen & Toubro 
