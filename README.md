@@ -29,7 +29,7 @@
 
 <!-- - 🔭 I’m currently working on my [DICOM Metadata Extractor](https://github.com/CapTen101/DICOM-Metadata-Extract) project in [Spring-Boot](https://spring.io) -->
 - 🌱 Я учу русский
-- 👯 I’m looking to collaborate on Projects in Spring and Flutter 
+- 👯 I’m looking to collaborate on Projects in Spring and Android 
 - 🎓 Pre-Final UG @ IIT Roorkee
 - :computer: Incoming Summer 2021 SDE Intern @ Larsen & Toubro 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-rohilla-007/), [Mail](mailto:trohilla@ch.iitr.ac.in)
