@@ -37,7 +37,7 @@
 - 🏎️ Currently writing answers on [StackOverFlow](https://stackoverflow.com/users/13965978/capten101?tab=profile)! (300+ reputation)
 - 🎓 Pre-Final UG @ IIT Roorkee
 - :computer: Incoming Summer 2021 SDE Intern @ Larsen & Toubro 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-rohilla-007/), [Mail](mailto:trohilla@ch.iitr.ac.in)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-rohilla-007/), [Mail](mailto:tusharrohilla.iitr@gmail.com)
 
 <br />
 <br />
