@@ -33,7 +33,7 @@
 
 <!-- - 🔭 I’m currently working on my [DICOM Metadata Extractor](https://github.com/CapTen101/DICOM-Metadata-Extract) project in [Spring-Boot](https://spring.io) -->
 - 🌱 Я учу русский
-- 👯 I’m looking to collaborate on Projects in Spring and Android
+<!-- - 👯 I’m looking to collaborate on Projects in Spring and Android -->
 - 🏎️ Currently writing answers on [StackOverFlow](https://stackoverflow.com/users/13965978/capten101?tab=profile)! (300+ reputation)
 - 🎓 Pre-Final UG @ IIT Roorkee
 - :computer: Summer 2021 SDE Intern @ Larsen & Toubro Infotech
