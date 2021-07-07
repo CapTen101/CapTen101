@@ -1,4 +1,4 @@
-### Hi there 👋 Myself Tushar!
+### Hi there 👋 I'm Tushar!
 
 <a href="https://twitter.com/TusharRohilla15">
   <img align="left" alt="Tushar Rohilla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -36,7 +36,7 @@
 - 👯 I’m looking to collaborate on Projects in Spring and Android
 - 🏎️ Currently writing answers on [StackOverFlow](https://stackoverflow.com/users/13965978/capten101?tab=profile)! (300+ reputation)
 - 🎓 Pre-Final UG @ IIT Roorkee
-- :computer: Incoming Summer 2021 SDE Intern @ Larsen & Toubro 
+- :computer: Summer 2021 SDE Intern @ Larsen & Toubro Infotech
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-rohilla-007/), [Mail](mailto:tusharrohilla.iitr@gmail.com)
 
 <br />
