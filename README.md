@@ -37,7 +37,7 @@
 <!-- - 🏎️ Currently writing answers on [StackOverFlow](https://stackoverflow.com/users/13965978/capten101?tab=profile)! -->
 - 🏎️ Currently writing answers on StackOverFlow!
 - 🎓 Final UG @ IIT Roorkee
-- :computer: Upcoming Developer Associate @ SAP Labs | Former Summer Intern @ LTI
+- :computer: Upcoming Developer Associate @ SAP Labs
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-rohilla-007/), [Mail](mailto:tusharrohilla.iitr@gmail.com)
 
 <br />
