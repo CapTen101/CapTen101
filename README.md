@@ -36,8 +36,8 @@
 <!-- - 👯 I’m looking to collaborate on Projects in Spring and Android -->
 <!-- - 🏎️ Currently writing answers on [StackOverFlow](https://stackoverflow.com/users/13965978/capten101?tab=profile)! -->
 - 🏎️ Currently writing answers on StackOverFlow!
-- 🎓 Pre-Final UG @ IIT Roorkee
-- :computer: Summer 2021 Intern @ LTI
+- 🎓 Final UG @ IIT Roorkee
+- :computer: Upcoming Developer Associate @ SAP Labs | Former Summer Intern @ LTI
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-rohilla-007/), [Mail](mailto:tusharrohilla.iitr@gmail.com)
 
 <br />
