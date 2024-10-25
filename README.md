@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Tushar!
 
-<a href="https://twitter.com/TusharRohilla15">
+<a href="https://x.com/CapTen101_">
   <img align="left" alt="Tushar Rohilla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://stackoverflow.com/users/13965978/capten101?tab=profile">
