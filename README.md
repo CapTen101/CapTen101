@@ -36,7 +36,6 @@
 - :computer: Developer (SWE II) @ SAP Labs
 <!-- - 👯 I’m looking to collaborate on Projects in Spring and Android -->
 <!-- - 🏎️ Currently writing answers on [StackOverFlow](https://stackoverflow.com/users/13965978/capten101?tab=profile)! -->
-- 🏎️ Currently writing answers on StackOverFlow!
 - 🎓 IIT Roorkee 2022
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tushar-rohilla/), [Mail](mailto:tusharrohilla.iitr@gmail.com)
 
